@@ -40,3 +40,5 @@ const SignUp = () => {
         </SafeAreaProvider>
     )
 }
+
+export default SignUp;

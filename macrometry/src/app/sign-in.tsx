@@ -33,4 +33,4 @@ const SignIn = () => {
 }
 
 
-export default auth;
+export default SignIn;
